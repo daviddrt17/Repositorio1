@@ -1,0 +1,9 @@
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\bin\Debug\Windows-ADB.exe.config
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\bin\Debug\Windows-ADB.exe
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\bin\Debug\Windows-ADB.pdb
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.csprojResolveAssemblyReference.cache
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows_ADB.Properties.Resources.resources
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.csproj.GenerateResource.Cache
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.exe
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.pdb
+C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows_ADB.Form1.resources
