@@ -7,3 +7,12 @@ C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.cspr
 C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.exe
 C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.pdb
 C:\Users\David Aponte\Desktop\Windows-ADB\Windows-ADB\obj\Debug\Windows_ADB.Form1.resources
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\bin\Debug\Windows-ADB.exe.config
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.exe
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.pdb
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\bin\Debug\Windows-ADB.exe
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\bin\Debug\Windows-ADB.pdb
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.csprojResolveAssemblyReference.cache
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\obj\Debug\Windows_ADB.Form1.resources
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\obj\Debug\Windows_ADB.Properties.Resources.resources
+C:\Users\David Aponte\Documents\GitHub\Repositorio1\Windows-ADB\Windows-ADB\obj\Debug\Windows-ADB.csproj.GenerateResource.Cache

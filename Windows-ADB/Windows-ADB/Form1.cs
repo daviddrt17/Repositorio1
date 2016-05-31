@@ -53,5 +53,24 @@ namespace Windows_ADB
                 ExecuteCommand("adb reboot-bootloader");
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog open = new OpenFileDialog();
+            open.Filter = "APK|*.apk";
+            DialogResult resul = open.ShowDialog();
+            if (resul == System.Windows.Forms.DialogResult.OK)
+            {
+                tb_DirectorioAPK.Text = open.FileName;
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (tb_DirectorioAPK.Text != "")
+            {
+                ExecuteCommand("adb install " + tb_DirectorioAPK.Text );
+            }
+        }
     }
 }
