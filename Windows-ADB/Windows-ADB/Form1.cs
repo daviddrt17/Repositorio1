@@ -54,7 +54,15 @@ namespace Windows_ADB
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+    
+        
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+   
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
         {
             OpenFileDialog open = new OpenFileDialog();
             open.Filter = "APK|*.apk";
@@ -65,11 +73,19 @@ namespace Windows_ADB
             }
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button3_Click_1(object sender, EventArgs e)
         {
-            if (tb_DirectorioAPK.Text != "")
-            {
-                ExecuteCommand("adb install " + tb_DirectorioAPK.Text );
+              if (tb_DirectorioAPK.Text != "")
+             {
+                 this.Cursor = Cursors.WaitCursor;
+                 string c1="";
+                 foreach (string c in tb_DirectorioAPK.Text.Split('\\')){c1 = c; }
+
+                 string Apk = Application.StartupPath + "//" + c1;
+                 System.IO.File.Copy(tb_DirectorioAPK.Text, Apk);
+                 ExecuteCommand("adb install -f " + Apk);
+                 System.IO.File.Delete(Apk);
+                 this.Cursor = Cursors.Default;
             }
         }
     }
